@@ -138,35 +138,35 @@ FAMILY_RANK_KEEPER: Strážce
 FAMILY_RANK_MEMBER: Člen
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: The family is already of that faction!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
-FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Family head changed.
-FAMILY_SHOUTMESSAGE_FAMILY_CREATED: The family '{0}' was founded!
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Chcete-li se znovu připojit k rodině, musíte počkat 24 hodin.
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Hlava rodiny změněna.
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodina '{0}' byla založena!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
-FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
-FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
+FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla úrovně {0}!
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
-FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
-FRIEND_INFO_ADDED: Friend request accepted!
-FRIEND_INFO_ALREADY_FRIEND: '{0} is already your friend!'
-FRIEND_INFO_DELETED: Friend deleted!
-FRIEND_INFO_FRIENDLIST_FULL: Your friend list is full!
-FRIEND_INFO_REFUSED: Friend request refused.
-FRIEND_INFO_REQUEST_BLOCKED: The player is blocking friend requests.
-FRIEND_MESSAGE_NOT_FRIEND: You are not friends!
-FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: This player is not in your friendlist.
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in enemy faction.
-GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: You can't gamble with fixed level items.
-GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: You can't gamble non-heroic items with that.
-GAMBLING_INFO_AMULET_DESTROYED: 'CAUTION: The protection spell has expired.'
-GAMBLING_MESSAGE_ALREADY_MAX_RARE: You already have the highest rarity!
-GAMBLING_MESSAGE_AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
-GAMBLING_MESSAGE_FAILED: Gambling failed! The item has been destroyer.
-GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
-GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
-GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
+FAMILYARENA_INFO_ASK_ENTER: Chcete vstoupit do rodinné arény? It will cost you {0} gold.
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se přihlásil.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Chcete se stát přítelem s {0}?
+FRIEND_INFO_ADDED: Žádost o přátelství přijata!
+FRIEND_INFO_ALREADY_FRIEND: '{0} je již tvůj přítel!'
+FRIEND_INFO_DELETED: Přítel odstraněn!
+FRIEND_INFO_FRIENDLIST_FULL: Tvůj list přátel je plný!
+FRIEND_INFO_REFUSED: Žádost o přátelství odmítnuta.
+FRIEND_INFO_REQUEST_BLOCKED: Hráč blokuje žádosti o přátelství.
+FRIEND_MESSAGE_NOT_FRIEND: Nejste přátelé!
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není v tvém listu přátel.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvuj přítel je protivníkem frakce.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: S předmětem na pevné úrovni nemůžete hazardovat.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto nemůžete hazardovat nehrdinské předměty.
+GAMBLING_INFO_AMULET_DESTROYED: 'UPOZORNĚNÍ: Ochranné kouzlo vyprchalo.'
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: Už máte nejvyšší úroveň vzácnosti!
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Předmět byl ochráněn před zničením, díky amuletu.
+GAMBLING_MESSAGE_FAILED: Sázka se nezdařila! Předmět byl zničen.
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Hazard se nezdařil, předmět byl ochráněn před zničením.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: Nemůžete hazardovat s hrdinským předmětem.
+GAMBLING_MESSAGE_SUCCESS: 'Sázka úspěšná! Nová úroveň vzácnosti: {0}'
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: Do you want to participate in {0}?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Do you want to participate in {0}? It will cost you {1}.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: You can't join the event while not in a general map.
@@ -177,9 +177,9 @@ GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} will start in {1} seconds.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
-GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
+GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} odmítl skupinovou pozvánku.'
 GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
-GROUP_DIALOG_INVITED_YOU: '{0} sent you a group request'
+GROUP_DIALOG_INVITED_YOU: '{0} tě pozval do skupiny'
 GROUP_INFO_ADMIN: You are the group admin now!
 GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
 GROUP_INFO_BLOCKED: Hráč blokuje pozvánku do skupiny.
@@ -187,9 +187,9 @@ GROUP_INFO_FULL: Skupina je plná.
 GROUP_INFO_JOIN: You joined the group of player {0}!
 GROUP_INFO_LEFT: Opustil jsi skupinu.
 GROUP_INFO_NEW_LEADER: Jsi novým vůdcem skupiny!
-GROUP_INFO_REQUEST: Group request sent to player {0}.
+GROUP_INFO_REQUEST: Pozvánka do skupiny odeslaná hráči {0}.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
-GROUP_SHOUTMESSAGE_CLOSED: Group disbanded.
+GROUP_SHOUTMESSAGE_CLOSED: Skupina rozpuštěna.
 GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
@@ -239,53 +239,53 @@ IC_90_150_45_70H_W2_TITLE: Wave 2 - Hellspawns
 IC_90_150_45_70H_W3_TITLE: Wave 3 - Moist Creatures
 IC_90_150_45_70H_W4_TITLE: Wave 4 - Orcs
 IC_90_150_45_70H_W5_TITLE: Wave 5 - A Chill Place...
-ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: You can't unfreeze the person you killed!
-ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Nemůžeš rozmrazit hráče, kterého jsi zabil!
+ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Jsi příliš daleko pro rozmrazení!
 ICEBREAKER_NAME: Icebreaker
 ICEBREAKER_SHOUTMESSAGE_END: The Icebreaker has ended.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Prepare to fight!
-ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} is frozen.'
-ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} was unfrozen.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} je zmražen.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} byl odmražen.'
 ICEBREAKER_SHOUTMESSAGE_STARTED: Icebreaker has started
-ICEBREAKER_SHOUTMESSAGE_WIN: You won the Icebreaker!
-INFORMATION_CHANNEL: Channel
+ICEBREAKER_SHOUTMESSAGE_WIN: Vyhrál jsi Icebreaker!
+INFORMATION_CHANNEL: Kanál
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Can't use that right now!
-INFORMATION_CHATMESSAGE_NO_WINGS: You don't have any Wings of Friendship!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Not enough mana points!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Not enough reputation!
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Your level is too low!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: This item is not yours!
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: The NosMerchant Medal is currently active.
+INFORMATION_CHATMESSAGE_NO_WINGS: Nemáš žádné křídla přátelství
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nedostatek many!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nedostatek reputace!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Tvůj level je příliš nízký!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Tento předmět ti nepatří!
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Medaile NosKupce je právě aktivní.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner Specialist transformation in cooldown: {0} sec.'
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputation decreased: -{0}!'
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputation increased: +{0}!'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputace snížená: -{0}!'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputace zvýšená: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Used {1}x {0}
-INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Protection Scroll has been used!
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Ochranný svitek byl použit!
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Specialist transformation in cooldown: {0} sec.'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: You are not eligible to use this.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: User has blocked private messages!
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Sent to '{0}' on channel {1}.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP points: +{0}'
-INFORMATION_HERO_LEVELUP: You hero level has been increased!
-INFORMATION_INFO_PLAYER_IN_BATTLE: Player {0} is in battle.
-INFORMATION_INFO_PLAYER_OFFLINE: Player is not online!
+INFORMATION_HERO_LEVELUP: Úroveň hrdiny byla zvýšena!
+INFORMATION_INFO_PLAYER_IN_BATTLE: Hráč {0} je v boji.
+INFORMATION_INFO_PLAYER_OFFLINE: Hráč není připojen!
 INFORMATION_MESSAGE_LOW_JOB: Your job level is too low!
 INFORMATION_MESSAGE_MAX_GOLD: Maximum amount of gold reached!
-INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: I'm not hungry!
-INFORMATION_MESSAGE_NOT_HUNGRY_MALE: I'm not hungry!
-INFORMATION_MESSAGE_USER_NOT_CONNECTED: User is not connected.
-INFORMATION_MESSAGE_USER_NOT_FOUND: User not found!
-INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Your class has been changed.
-INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Your equipment is not empty!
-INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Your {0} has leveled up!
-INFORMATION_SHOUTMESSAGE_FAIRYMAX: Your {0} has reached its highest level!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Nejsem hladová!
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Nejsem hladový
+INFORMATION_MESSAGE_USER_NOT_CONNECTED: Uživatel není připojen
+INFORMATION_MESSAGE_USER_NOT_FOUND: Uživatel nenalezen!
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tvá třída byla změněna.
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tvé vybavení není prázdné!
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Tvá {0} dosáhla nové úrovně!
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: Tvá {0} dosáhla nejvyšší úrovně!
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: You can't perform this action as a Game Master.
-INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Your job level has been increased!
-INFORMATION_SHOUTMESSAGE_LEVELUP: Your level has been increased!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximum amount of Partners reached!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximum Partner slots reached.
-INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximum amount of NosMates reached!
-INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximum NosMate slots reached.
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Tvá úroveň práce byla zvýšena.
+INFORMATION_SHOUTMESSAGE_LEVELUP: Tvá úroveň byla zvýšena.
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Bylo dosaženo maximální množství partnerů!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximální počet slotů partnerů dosažen.
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Bylo dosaženo maximální množství mazlíčků!
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximální počet slotů mazlíčků dosažen.
 INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: You must be in a general map.
 INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: You need to leave the group to do that!
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Only Adventurer can change the class.
@@ -302,68 +302,68 @@ INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: The item has been changed into partn
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: You can't release your NosMate if it's following you.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: If you want to learn a skill, you need to remove your Specialist card.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Remove your vehicle before transforming.
-INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Tvé pohlaví bylo změněno!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialist must have at least level {0} to upgrade!
-INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points set.
-INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Your level is too low!
-INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map!
-INSTANT_COMBAT_NAME: Instant Combat
-INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: The Instant Combat will end in {0} min.
-INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monsters incoming...
-INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: The Instant Combat will end in {0} sec.
-INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulations! You won the Instant Combat!
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Unfortunately, you didn't beat the wave and didn't receive the loot.
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: The next wave will begin in {0} min.
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: The next wave will begin in {0} sec.
+INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Body umístěny.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Tvá úroveň je příliš nízká!
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Hráč se nenachází na obecné mapě!
+INSTANT_COMBAT_NAME: Okamžitá bitva
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitá bitva končí za {0} min.
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monstra přicházejí...
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitá bitva končí za {0} sec.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulace! Vyhrál jsi Okamžitou Bitvu!
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Bohužel, neporazil jsi vlnu a nedostal jsi odměnu.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: Další vlna začne za {0} min.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Další vlna začne za {0} sec.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Introduction set.
 INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: You didn't deal the first blow, so you receive only a part of the experience.
 INTERACTION_LOG_ITEM_NOT_SELLABLE: You can only sell tradable items in a private shop.
-INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Not enough gold.
-INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Not enough place in inventory!
+INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Nedostatek zlata.
+INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Nedostatek místa v inventáři!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: You got blessed by the protection power of angels!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: You got blessed by the protection power of demons!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
-INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: To change the wings of the Specialist Card, it must have an upgrade higher than 0.
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
-INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
-INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item?
-INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items
+INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pro změnu křídel Karty Specialisty, je zapotřebí mít větší vylepšení karty než 0.
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Získáno {0}x {1}
+INVENTORY_DIALOG_ASK_TO_DELETE: Chceš smazat tento předmět?
+INVENTORY_DIALOG_SURE_TO_DELETE: Opravdu chceš smazat tento předmět?
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nedostatek předmětů
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: The item can't contains the shells!
-ITEM_CHATMESSAGE_CANT_USE_THAT: You can't use that.
-ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already have {0} buff.
-ITEM_CHATMESSAGE_EFFECT_ACTIVATED: The {0} effect has been activated!
-ITEM_CHATMESSAGE_NO_GILLION: You don't have enough Gillion Stone!
-ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
+ITEM_CHATMESSAGE_CANT_USE_THAT: To nemůžete použít
+ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžete použít, protože již máte buff {0} .
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Effekt {0} byl aktivován!
+ITEM_CHATMESSAGE_NO_GILLION: Nemáte dostatek kamenu Gillion!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už jste postavili rozcestník. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Item's ({0}) duration has expired.
-ITEM_CHATMESSAGE_UNFIXED: Your item is no longer level fixed!
-ITEM_DIALOG_ASK_BIND: Do you want to wear that item? It will bind this item to your character and make it unavailable for trading.
-ITEM_DIALOG_ASK_CHANGE_FACTION: Do you want to change your faction?
-ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
-ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Do you want to change your specialist wings?
-ITEM_DIALOG_ASK_OPEN_BOX: Do you want to open this box?
-ITEM_DIALOG_ASK_OPEN_PET_BEAD: Do you want to take out your NosMate?
-ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead?
-ITEM_DIALOG_ASK_USE: Do you want to use this item?
-ITEM_DIALOG_WANT_TO_SAVE_POSITION: Do you want to save your position?
-ITEM_INFO_PET_NAME_TOO_LONG: The NosMate name is too long! (14 characters max.)
-ITEM_MESSAGE_CANT_USE: You can't use this item.
-ITEM_MESSAGE_CANT_WEAR: You can't wear this item.
-ITEM_MESSAGE_CANT_WEAR_PARTNER: Your partner can't wear this item.
-ITEM_MESSAGE_ERASER_NO_SHELL: You can't erase shell options because there aren't any.
-ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: You can't upgrade Specialist Card with a dead soul!
-ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: You can't wear destroyed Specialist Card.
-ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: You have crafted {1}x {0}.
-ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use indivindual faction egg when you're in a family.
-ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different from the SP element!
-ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
+ITEM_CHATMESSAGE_UNFIXED: Váš item již nemá pevnou úroveň!
+ITEM_DIALOG_ASK_BIND: Chcete nosit tento předmět? Předmět zůstane vázaný vaší postavou a znemožní obchodování.
+ITEM_DIALOG_ASK_CHANGE_FACTION: Chcete změnit svojí frakci?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chcete změnit frakci vaší rodiny?
+ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Chcete změnit křídla specialisty?
+ITEM_DIALOG_ASK_OPEN_BOX: Chcete otevřít tento box?
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chcete si vyndat svého mazlíčka? 
+ITEM_DIALOG_ASK_PET_STORE: Chcete svého mazlíčka vložit do perly?
+ITEM_DIALOG_ASK_USE: Chcete použít tento předmět?
+ITEM_DIALOG_WANT_TO_SAVE_POSITION: Chcete si uložit svojí pozici?
+ITEM_INFO_PET_NAME_TOO_LONG: Jméno mazlíčka je přilíš dlouhé! (maximálně 14 znaků)
+ITEM_MESSAGE_CANT_USE: Nemůžete použít tento item.
+ITEM_MESSAGE_CANT_WEAR: Nemůžete obléct tento item.
+ITEM_MESSAGE_CANT_WEAR_PARTNER: Váš partner nemůže obléct tento item.
+ITEM_MESSAGE_ERASER_NO_SHELL: Nemůžete smazat vlastnosti mušle, protože žádné nejsou.
+ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: S ničenou duší nemůžete vylepšovat specialistovo kartu!
+ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžete nasadit zničenou specialistovo kartu.
+ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Vyrobil jste {1}x {0}.
+ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Nemůžete použít inviduální vajíčko pro změnu frakce pokud-li jste členem rodiny.
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Karta specialisty a Tvá víla mají různé atributy.
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůžeš vyhodit.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
-MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Počet nových zásilek {0} .
 MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
@@ -451,16 +451,16 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Mini-Land.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
-PERFECTSP_ATTACK: Attack
-PERFECTSP_DEFENSE: Defense
+PERFECTSP_ATTACK: Útok
+PERFECTSP_DEFENSE: Obrana
 PERFECTSP_ELEMENT: Element
-PERFECTSP_FIRE: Fire
+PERFECTSP_FIRE: Oheň
 PERFECTSP_HPMP: HP/MP
-PERFECTSP_LIGHT: Light
+PERFECTSP_LIGHT: Světlo
 PERFECTSP_MESSAGE_FAILURE: SP Perfection failed!
 PERFECTSP_MESSAGE_SUCCESS: 'Perfection successful: {0} +{1}'
-PERFECTSP_SHADOW: Shadow
-PERFECTSP_WATER: Water
+PERFECTSP_SHADOW: Stín
+PERFECTSP_WATER: Voda
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: You bought {1}x {0} from {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} bought {2}x {1}.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Your NosMate can already pick up items!
