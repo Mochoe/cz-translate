@@ -142,7 +142,7 @@ FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Chcete-li se znovu připojit k ro
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Hlava rodiny změněna.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodina '{0}' byla založena!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
-FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla úrovně {0}!
+FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla úrovně {0}!a
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILYARENA_INFO_ASK_ENTER: Chcete vstoupit do rodinné arény? It will cost you {0} gold.
